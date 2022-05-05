@@ -2,7 +2,7 @@ import React from 'react'
 
 function AboutUs() {
   return (
-    <div className="">
+    <div className="" id="about">
       <div className="-mt-10 bg-hero-pattern3 h-auto">
         <div className="w-4/5 m-auto">
         <div className="m-auto text-center pt-8 pb-16"><h3 className="text-white font-extrabold text-3xl pt-10">ABOUT US</h3> <hr className="bg-white h-1 w-28 rounded-md m-auto" /></div>
@@ -13,9 +13,9 @@ function AboutUs() {
             </div>
         </div>
         <div className="pb-6 pt-1  h-64">
-            <p className="text-white text-left text-lg font-extralight pb-6">Sagal imports a wide range of construction materials, construction materials, construction facilitation and decoration.</p>
-            <p className="text-white text-left text-lg font-extralight pb-6">Founded in 2002, the compant had the capacity to serve commercial buildings, family homes and anyother building under construction.</p>
-            <p className="text-white text-left text-lg font-extralight pb-6">The company has offices in Hargeisa, Burao, Berbera, Wajale and Jigjiga.</p>
+            <p className="text-white text-left text-lg font-bold pb-6">Sagal imports a wide range of construction materials, construction materials, construction facilitation and decoration.</p>
+            <p className="text-white text-left text-lg font-bold pb-6">Founded in 2002, the compant had the capacity to serve commercial buildings, family homes and anyother building under construction.</p>
+            <p className="text-white text-left text-lg font-bold pb-6">The company has offices in Hargeisa, Burao, Berbera, Wajale and Jigjiga.</p>
         </div>
         </div>
         </div>

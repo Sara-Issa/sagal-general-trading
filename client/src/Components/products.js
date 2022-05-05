@@ -2,7 +2,7 @@ import React from 'react'
 
 function Products() {
   return (
-    <div className="bg-hero-pattern">
+    <div className="bg-hero-pattern" id="products">
     <div className="w-4/5 m-auto h-auto">
       <div className="m-auto text-center"><h3 className="text-red-red1 font-extrabold text-3xl pt-10">OUR<br />PRODUCTS</h3> <hr className="bg-red-red1 h-1 w-28 rounded-md m-auto" /></div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 py-10 gri">

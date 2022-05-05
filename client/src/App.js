@@ -3,10 +3,11 @@ import Footer from "./Components/footer";
 import Home from "./Home";
 import Notification from "./Components/notification";
 import CopyRight from "./Components/copyRight";
+import { BrowserRouter } from "react-router-dom";
 
 function App() {
   return (
-    
+    <BrowserRouter>
     <div>
       <Notification />
       <Nav />
@@ -14,6 +15,7 @@ function App() {
       <Footer />
       <CopyRight />
     </div>
+    </BrowserRouter>
   );
 }
 

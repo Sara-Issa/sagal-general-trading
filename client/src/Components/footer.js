@@ -1,4 +1,7 @@
-import React from 'react'
+import React from 'react';
+import { BsFacebook, BsInstagram } from 'react-icons/bs';
+import { HashLink as Link } from 'react-router-hash-link'
+
 
 function Footer() {
   return (
@@ -11,28 +14,11 @@ function Footer() {
       <div className="pl-14">
         <div>
           <ul>
-            <li>About Us</li>
-            <li>FAQ</li>
-            <li>Data Center</li>
-            <li>Bulk Purchases</li>
-            <li>Contact Us</li>
-          </ul>
-        </div>
-      
-      </div>
-      </div>
-      <div>
-      <div className="bg-red-red2 h-4 my-10 pt-2 pb-8">
-      <div className="pl-14"><h3 className="text-base font-bold ">POLICIES</h3></div>
-      </div>
-      <div className="pl-14">
-        <div>
-          <ul>
-            <li>Sales & Refunds Terms</li>
-            <li>Shipping & Handling</li>
-            <li>Payment Methods</li>
-            <li>Return & Refunds Policy</li>
-            <li>Warranty Policy</li>
+            <li><Link to='#home'>HOME </Link></li>
+            <li><Link to='#about'>ABOUT</Link></li>
+            <li><Link to='#products'>PRODUCTS</Link></li>
+            <li><Link to='#services'>SERVICES</Link></li>
+            <li><Link to='#contact'>CONTACT</Link></li>
           </ul>
         </div>
       
@@ -72,6 +58,20 @@ function Footer() {
               <h6>sagalgt01@gmsil.com</h6>
               </div>
               </li>
+          </ul>
+        </div>
+      
+      </div>
+      </div>
+      <div>
+      <div className="bg-red-red2 h-4 my-10 pt-2 pb-8">
+      <div className="pl-14"><h3 className="text-base font-bold ">SOCIAL MEDIA</h3></div>
+      </div>
+      <div className="pl-14">
+        <div>
+          <ul>
+            <li ><a href='https://www.facebook.com/sagalgeneraltrading'> < BsFacebook className="h-10 w-10 pb-3" /></a> </li>
+            <li><a href='https://www.instagram.com/sagaltradingcompany/'>< BsInstagram className="h-10 w-10 pb-3" /></a></li>
           </ul>
         </div>
       
