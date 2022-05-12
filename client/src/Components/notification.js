@@ -16,25 +16,22 @@ function Notification() {
                     </div>
                     <div>
                         <h5 className=" font-semibold">252 63 4429882</h5>
-                        <h6 className="text-xs font-medium">Telesom</h6>
                     </div>
                 </li>
                 <li  className="flex items-center">
                     <div className="px-5">
-                        <img src="./mail.png" alt="mail" className="h-8 w-8"/>
+                        <img src="./mail.png" alt="mail" className="h-10 w-13"/>
                     </div>
                     <div>
                         <h5 className=" font-semibold">sagalgt01@gmail.com</h5>
-                        <h6 className="text-xs font-medium">Gmail</h6>
                     </div>
                 </li>
                 <li  className="flex items-center">
                     <div className="px-5">
-                        <img src="./call-white.png" alt="call-2" className="h-8 w-8"/>
+                        <img src="./call.png" alt="call-2" className="h-8 w-8"/>
                     </div>
                     <div>
-                        <h5 className=" font-semibold">252 65 4429882</h5>
-                        <h6 className="text-xs font-medium">Somtel</h6>
+                        <h5 className=" font-semibold">524069</h5>
                     </div>
                 </li>
             </ul>

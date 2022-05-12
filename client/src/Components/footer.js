@@ -5,7 +5,7 @@ import { HashLink as Link } from 'react-router-hash-link'
 
 function Footer() {
   return (
-    <div className="bg-red-red1 text-white pb-10">
+    <div className="bg-red-red1 text-white pb-10" id='contact'>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
       <div>
       <div className="bg-red-red2 h-4 my-10 pt-2 pb-8">
@@ -33,28 +33,25 @@ function Footer() {
           <ul>
             <li className="flex">
               <div className="pr-3 py-2">
-                <img src='./call-white.png' alt='call-white' className="h-10 w-10"/>
+                <img src='./call-white.png' alt='call-white' className="h-8 w-8"/>
               </div>
               <div className="py-2">
-              <h5>Telesom</h5>
               <h6>252 63 4429882</h6>
               </div>
               </li>
               <li className="flex">
               <div className="pr-3 py-2">
-                <img src='./call-white.png' alt='call-white' className="h-10 w-10"/>
+                <img src='./call-white.png' alt='call-white' className="h-8 w-8"/>
               </div>
               <div className="py-2">
-              <h5>Somtel</h5>
-              <h6>252 65 4429882</h6>
+              <h6>524069</h6>
               </div>
               </li>
               <li className="flex">
               <div className="pr-3 py-2">
-                <img src='./mail.png' alt='mail' className="h-10 w-10"/>
+                <img src='./mail-white.png' alt='mail-white' className="h-8 w-8"/>
               </div>
               <div className="py-2">
-              <h5>Gmail</h5>
               <h6>sagalgt01@gmsil.com</h6>
               </div>
               </li>
