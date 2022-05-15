@@ -23,13 +23,13 @@ function BuildingMaterials() {
           </Fade>
           <Fade bottom>
         <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./3 png socket.jpeg' alt='wood-oli' className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./3 ping socket.jpeg' alt='wood-oli' className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">3 ping & double ping<br />sockets</h3>
           </div>
           </Fade>
           <Fade bottom>
         <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./Trible switch .jpeg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./Triple switch .jpeg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">Single, double & triple  <br />switch</h3>
           </div>
           </Fade>

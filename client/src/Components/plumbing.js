@@ -48,7 +48,7 @@ function Plumbing() {
       </Fade>
       <Fade bottom>
           <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./GI nipple .jpeg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./GI nipple .png' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">GI nipple <br />(all sizes)</h3>
           </div>
       </Fade>
@@ -72,13 +72,13 @@ function Plumbing() {
       </Fade>
       <Fade bottom>
           <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./Toilet seat.jpeg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./Toilet seat.jpg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">Toilet seat  <br />(all designs)</h3>
           </div>
       </Fade>
       <Fade bottom>
           <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./Toilet sink.jpeg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./Toilet sink.jpg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">Toilet sink <br />(all designs)</h3>
           </div>
       </Fade>
@@ -90,7 +90,7 @@ function Plumbing() {
       </Fade>
       <Fade bottom>
           <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./Kitchen sink.jpeg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./Kitchen sink.jpg' alt='carrier'className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">Kitchen sink<br />(1hole & 2holes)</h3>
           </div>          
       </Fade>
