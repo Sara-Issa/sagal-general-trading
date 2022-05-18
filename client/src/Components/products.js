@@ -21,7 +21,7 @@ function Products() {
           </Link>
           <Link to="/electricity">
         <div className=" h-72 my-6 bg-white shadow-xl rounded-md w-11/12 m-auto py-10">
-          <img src='./wire.jpg' alt='wood-oli' className="h-2/3 w-2/3 items-center m-auto" />
+          <img src='./wire.jpg ' alt='wood-oli' className="h-2/3 w-2/3 items-center m-auto" />
           <h3 className="text-white pt-3 font-extrabold text-center h-20 w-full bg-red-red2">OUR <br />ELECTRICTY</h3>
           </div>
           </Link>

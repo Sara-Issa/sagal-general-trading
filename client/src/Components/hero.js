@@ -2,14 +2,47 @@ import React from 'react'
 import { HashLink as Link } from 'react-router-hash-link'
 // import Fade from 'react-reveal/Fade';
 import Zoom from 'react-reveal/Zoom';
-
+import 'tw-elements';
 
 function Hero() {
 
   return (
     <div className="" id='home' >
         <div className="">
-            <img src='./hero.jpg' alt='hero' className="h-11/12"/>
+            <>
+            <div id="carouselExampleSlidesOnly" class="carousel slide relative" data-bs-ride="carousel">
+  <div class="carousel-inner relative w-full overflow-hidden">
+    <div class="carousel-item active relative float-left w-full">
+      <img
+        src="./hero 1.jpg"
+        class="block w-full"
+        alt="Wild Landscape"
+      />
+    </div>
+    <div class="carousel-item relative float-left w-full">
+      <img
+        src="./hero 2.jpg"
+        class="block w-full"
+        alt="Wild Landscape"
+      />
+    </div>
+    <div class="carousel-item relative float-left w-full">
+      <img
+        src="./hero 3.jpg"
+        class="block w-full"
+        alt="Camera"
+      />
+    </div>
+    <div class="carousel-item relative float-left w-full">
+      <img
+        src="./hero 4.jpg"
+        class="block w-full"
+        alt="Exotic Fruits"
+      />
+    </div>
+  </div>
+</div>
+            </>
             <div className="-mt-36 pb-36 pl-36 hidden md:hidden lg:block">
             <Zoom>
             <button 
