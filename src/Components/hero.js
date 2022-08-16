@@ -40,6 +40,13 @@ function Hero() {
         alt="Exotic Fruits"
       />
     </div>
+    <div class="carousel-item relative float-left w-full">
+      <img
+        src="./hero 5.jpeg"
+        class="block w-full"
+        alt="Exotic Fruits"
+      />
+    </div>
   </div>
 </div>
             </>
